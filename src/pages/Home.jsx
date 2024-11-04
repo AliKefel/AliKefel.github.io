@@ -6,10 +6,6 @@ import { SiLeetcode } from "react-icons/si";
 import { SiHandshake } from "react-icons/si";
 
 
-
-
-
-
 let message = "~ \> Hello👋,"
 const Home = () => {
   return (

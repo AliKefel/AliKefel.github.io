@@ -12,6 +12,15 @@ const Scroll = () => {
 
     const experiences = [
         {
+            heading: 'Undergraduate Teaching Assistant - FSE100, CSE205',
+            company: 'Ira A. Fulton Schools of Engineering at Arizona State University',
+            duration: 'Jan 2024 - Present · 11 mos',
+            location: 'Tempe, Arizona, United States · On-site',
+            li1: 'Assisted in teaching and supporting students in intro to engineering coursework.',
+            li2: 'Supported students in learning data structures and algorithms, enhancing their understanding of programming concepts.',
+            li3: 'Provided feedback and assistance with course assignments and projects.',
+        },
+        {
             heading: 'Section Leader - ASU101',
             company: 'Ira A. Fulton Schools of Engineering at Arizona State University',
 
@@ -20,21 +29,7 @@ const Scroll = () => {
             duration: 'Aug 2024 - Present · 4 mos' ,
             location: 'Tempe, Arizona, United States · On-site',
         },
-        {
-            heading: 'Undergraduate Teaching Assistant - FSE100',
-            company: 'Ira A. Fulton Schools of Engineering at Arizona State University',
-            duration: 'Aug 2024 - Present · 4 mos',
-            location: 'Tempe, Arizona, United States · On-site',
-            li1: 'Assisted in teaching and supporting students in foundational engineering coursework.',
-        },
-        {
-            heading: 'Undergraduate Teaching Assistant - CSE205',
-            company: 'Ira A. Fulton Schools of Engineering at Arizona State University',
-            duration: 'Jan 2024 - Aug 2024 · 8 mos',
-            location: 'Tempe, Arizona, United States · On-site',
-            li1: 'Supported students in learning data structures and algorithms, enhancing their understanding of programming concepts.',
-            li2: 'Provided feedback and assistance with course assignments and projects.',
-        },
+        
         {
             heading: 'Vietnam Shrimp Farming Project - Arduino Team Lead',
             company: 'EPICS at ASU',
