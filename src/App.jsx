@@ -17,7 +17,7 @@ function App() {
         <Home />
       </div>
 
-      <div className='w-full md:w-1/2 m-5 '>
+      <div className='w-full md:w-1/2  '>
         <Scroll/> 
       </div>
 

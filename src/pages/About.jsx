@@ -9,7 +9,7 @@ const About = () => {
     <section className='w-full h-full flex flex-col items-center justify-start '>
 
         <div className=' mt-5'> 
-            <span className='courier-prime-regular font-bold tracking-tight'> {message}</span>
+            <span className='courier-prime-regular font-bold tracking-tight text-teal-400'> {message}</span>
         </div>
 
         <div className='border-2w-full h-1/2 m-7'>
@@ -17,7 +17,7 @@ const About = () => {
         </div>
     </section>
     
-    
+
   )
 }
 

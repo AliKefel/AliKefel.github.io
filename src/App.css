@@ -24,3 +24,6 @@
   font-style: normal;
 }
 
+html, body {
+  overflow-x: hidden;
+}

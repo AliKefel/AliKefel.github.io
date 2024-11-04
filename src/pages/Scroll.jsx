@@ -122,7 +122,7 @@ const Scroll = () => {
                     </div>
 
                     <div className=' mt-5 text-center justify-center'>
-                        <span className='courier-prime-regular font-bold tracking-tight'> {message2}</span>
+                        <span className='courier-prime-regular font-bold tracking-tight text-teal-400'> {message2}</span>
                     </div>
 
                     {experiences.map((experience, index) => (
@@ -139,7 +139,7 @@ const Scroll = () => {
                     ))}
 
                     <div className=' mt-5 text-center justify-center'>
-                        <span className='courier-prime-regular font-bold tracking-tight'> {message}</span>
+                        <span className='courier-prime-regular font-bold tracking-tight text-teal-400'> {message}</span>
                     </div>
 
                     {projects.map((project, index) => (

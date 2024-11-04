@@ -36,10 +36,10 @@ const Home = () => {
         <div className='m-5 h-1/2 flex flex-col justify-between'>
 
           <div className=' flex flex-row space-x-2'>
-            <FaLinkedin className='text-5xl text-blue-600 hover:-translate-y-1 hover:cursor-pointer' />
-            <FaGithubSquare className='text-5xl  text-green-500 hover:-translate-y-1 hover:cursor-pointer' />
-            <SiLeetcode className='text-5xl  text-orange-500 hover:-translate-y-1 hover:cursor-pointer'/>
-            <SiHandshake className='text-5xl  text-yellow-500 hover:-translate-y-1 hover:cursor-pointer'/>
+            <a href='https://www.linkedin.com/in/ali-kefel/'> <FaLinkedin className='text-5xl text-blue-600 hover:-translate-y-1 hover:cursor-pointer'  /> </a>
+            <a href='https://github.com/AliKefel'> <FaGithubSquare className='text-5xl  text-green-500 hover:-translate-y-1 hover:cursor-pointer' /> </a>
+            <a href='https://leetcode.com/ali_kefel/'> <SiLeetcode className='text-5xl  text-orange-500 hover:-translate-y-1 hover:cursor-pointer'/> </a>
+            <a href='https://app.joinhandshake.com/stu/users/46595477'> <SiHandshake className='text-5xl  text-yellow-500 hover:-translate-y-1 hover:cursor-pointer'/> </a>
 
           </div >
 

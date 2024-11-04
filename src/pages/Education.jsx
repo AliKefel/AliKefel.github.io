@@ -10,7 +10,7 @@ const Education = () => {
   
 
         <div className=' mt-5'> 
-            <span className='courier-prime-regular font-bold tracking-tight'> {message}</span>
+            <span className='courier-prime-regular font-bold tracking-tight  text-teal-400'> {message}</span>
         </div>
 
         <div className=' w-full h-1/2 m-7 '>
