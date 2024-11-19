@@ -64,7 +64,13 @@ const Scroll = () => {
             githubLink: 'https://github.com/AliKefel', // Replace with actual link if needed
             urls: ['project2.png', 'Stock_second_screen.png', 'Stock_first_screen.png']
         },
-
+        {
+            heading: 'Help System Application',
+            description1: 'Created a help system application with functionality for user authentication and encryption of sensitive information.',
+            description2: 'Used JavaFX for the user interface, H2 as the database, and JUnit for testing.',
+            githubLink: 'https://github.com/AliKefel', // Replace with actual link if needed
+            urls: ['help-system.png']
+        },
         {
             heading: 'Vietnam Shrimp Farming Project',
             description1: 'Prototyped and developed an aquaculture monitoring system for shrimp farmers.',
@@ -72,6 +78,22 @@ const Scroll = () => {
             description3: 'Designed Arduino schematics and conducted market research on the most appropriate integrated circuit boards to use.',
             githubLink: 'https://github.com/AliKefel', // Replace with actual link if needed
             urls: ['Shrimp-first-page.png']
+        },
+        {
+            heading: 'AI-Powered Requirements Gathering Chatbot for Engineering Courses',
+            description1: 'Developed an interactive chatbot to assist engineering students in gathering detailed project requirements from simulated customer interactions, enhancing real-world application skills.',
+            description2: 'Implemented natural language processing (NLP) techniques to interpret customer needs accurately, simulating a realistic requirements-gathering process.',
+            description3: 'Improved students’ understanding of requirement analysis by providing instant feedback and structured customer responses.',
+            githubLink: 'https://github.com/AliKefel', // Replace with actual link if needed
+            urls: ['chatgpt.png']
+        },
+        {
+            heading: 'Full Stack Online Survey',
+            description1: 'Created a full-stack survey application to evaluate desired levels of automation transparency in decision support systems.',
+            description2: 'Utilized MongoDB and Render to host the backend and securely collect participant data.',
+            description3: 'Built a responsive frontend with React and Tailwind CSS for enhanced usability.',
+            githubLink: 'https://github.com/AliKefel', // Replace with actual link if needed
+            urls: ['survey.png']
         },
         {
             heading: 'Fine Motor Skills Project',
@@ -95,14 +117,16 @@ const Scroll = () => {
             githubLink: 'https://github.com/AliKefel',
             urls: ['Blackjack.png']
         },
+       
         {
-            heading: 'Twenty Questions C',
-            description1: 'Developed an interactive console-based guessing game in C.',
-            description2: 'The game uses a binary search tree (BST) to guide the flow of the game, asking a series of yes/no questions.',
-            description3: 'Utilized dynamic memory allocation to create new nodes in the BST.',
-            githubLink: 'https://github.com/AliKefel',
-            urls: ['project1.png']
+            heading: 'SEO-Website',
+            description1: 'Developed a website for a social media marketing agency.',
+            description2: 'Designed for optimal user experience, with modern UI/UX principles.',
+            description3: 'Focused on responsive design to accommodate various device screen sizes.',
+            githubLink: 'https://github.com/AliKefel', // Replace with actual link if needed
+            urls: ['seo.png']
         },
+        
     ];
 
     return (
